@@ -1,2 +1,2 @@
 # EulerProject
-Project Euler in Python
+Project Euler Resolutions in Python
